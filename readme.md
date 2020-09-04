@@ -64,8 +64,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![HomePage KNVB](image/knvb1.png)
+![HomePage KNVB](images/knvb1.png)
 
 **Breakdown-schets(en):**
 
-![Elementen KNVB site](image/elementen.png)
+![Elementen KNVB site](images/elementen.png)
