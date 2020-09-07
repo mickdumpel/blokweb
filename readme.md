@@ -50,7 +50,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+-na afloop snel uitkomsten vastleggen- TEST
 
 
 
